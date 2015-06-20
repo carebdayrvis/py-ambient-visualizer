@@ -30,7 +30,7 @@ while True:
 	if max > 1200:
 		b.fade(255, 15, 9, fade, 0);
 	else:
-		b.fade(, 0, 0, fade, 0)
+		b.fade(0, 0, 0, fade, 0)
 
 
 stream.stop_stream()
